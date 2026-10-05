@@ -1,11 +1,11 @@
-#<p align="center">
+<p align="center">
   <a href="https://github.com/alalamsalsabiel-hub">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e8e3d9&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=505&height=44&lines=Eng.%7C%20DevSecOps%20%26%20Cybersecurity" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=670&height=44&lines=IT%20Specialist%20%26%20Banking%20Security%20Offensive" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -51,4 +51,4 @@
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/alalamsalsabiel-hub">alalamsalsabiel-hub</a></i></p>
- -alalamsalsabiel-hub
+
